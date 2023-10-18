@@ -1,0 +1,239 @@
+20151 (i) Convert the following binary number into hexadecimal.
+1 0 1 1 1 0 0 0
+ .............................................................................................................................. .................[1]
+ (ii) Convert the following denary number into BCD format.
+9 7
+ .............................................................................................................................. .................[1]
+ (iii) Using two’s complement, show how the following denary numbers could be stored in an 8-bit 
+register:
+114
+- 93
+ [2]
+2 (a) Sound can be represented in a computer in a digital format.
+  (i) Give the definition of the term sampling.
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .........[1]
+  (ii) Give one reason why 16-bit sampling is used in an audio compact disc (CD).
+ .............................................................................................................................. .............
+ .............................................................................................................................. .........[1]
+  (iii) Explain what is meant by the term sampling resolution.
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .........[2]
+  (iv) Give one benefit and one drawback of using a higher sampling resolution.
+Benefit  ...................................................................................................................... .........
+ .............................................................................................................................. .............
+Drawback  ..................................................................................................................... .....
+ .............................................................................................................................. .........[2]
+ (b) Describe two typical features found in software for editing sound files.
+1  ............................................................................................................................ ....................
+ .............................................................................................................................. .....................
+2  ............................................................................................................................ ....................
+ .............................................................................................................................. .................[2]4
+9608/11/M/J/15 © UCLES 
+2015 (c) Explain the difference between lossless  and lossy  data compression techniques.
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .................[3]3 Five modes of addressing and five descriptions are shown below.
+ Draw a line to connect each  mode of addressing to its correct description.
+Mode of addressing Description
+directthe operand is the address of the 
+address of the value to be used
+immediatethe operand is the address of the value to be used
+indexedthe operand is the offset from the current address where the value to be used is stored
+indirectthe operand plus the contents of the index register is the address of the value to be used
+relative the operand is the value to be used
+ [4]6
+9608/11/M/J/15 © UCLES 
+20154 (a) Sensors are one type of input device.
+  For each of the following situations, name a  different sensor that could be used.
+  (i) air conditioning in an office building
+ .............................................................................................................................. .........[1]
+  (ii) maintaining correct growing conditions in a greenhouse
+ .............................................................................................................................. .........[1]
+  (iii) detecting an intruder in a building
+ .............................................................................................................................. .........[1]
+ (b) Sensors are used to monitor seismic activity. At the end of each day, all the data are 
+transmitted to a central computer. This is hundreds of kilometres away.
+  Describe one way of ensuring that the integrity of the data is retained during the transmission 
+stage.
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .................[4]
+5 (a) Telephone calls can be made by using:
+    conventional telephones (using the Public Service Telephone Network (PSTN) system) 
+over a wired network
+   a computer, equipped with speakers and microphone, connected to the Internet
+  Put a tick ( ) in the correct column to match each description to the appropriate communication 
+method.
+DescriptionConventional telephone 
+using PSTNInternet-based system
+connection only in use 
+whilst sound is being transmitted
+dedicated channel used 
+between two points for the duration of the call
+connection maintained 
+throughout the telephone call
+encoding schemes and 
+compression technology used
+lines remain active even 
+during a power outage
+ [5]
+ (b) Distinguish between the Internet and the World Wide Web (WWW).
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .................[3]8
+9608/11/M/J/15 © UCLES 
+2015 (c) Name the hardware device that is being described:
+  (i) A device that transfers data from one network to another in an intelligent way. It has the 
+task of forwarding data packets to their destination by the most efficient route.
+ .............................................................................................................................. .........[1]
+  (ii) A device used between two dissimilar LANs. The device is required to convert data 
+packets from one protocol to another.
+ .............................................................................................................................. .........[1]
+  (iii) A device or software that provides a specific function for computers using a network. The 
+most common examples handle printing, file storage and the delivery of web pages.
+ .............................................................................................................................. .........[1]
+6 (a) Name the most suitable input or output device for each of the following uses.
+  Give a different device in each case.
+Description of use Input or output device
+input of credit card number into an online form
+selection of an option at an airport information kioskoutput of a single high-quality photographoutput of several hundred high-quality leafletsinput of a hard copy image into a computer
+ [5]
+ (b) All of the uses in part (a)  involve the input or output of data.
+  (i) Describe two methods of preventing accidental loss of data.
+1  ............................................................................................................................ ............
+ .............................................................................................................................. .............
+2  ............................................................................................................................ ............
+ .............................................................................................................................. .........[2]
+  (ii) Describe one way of ensuring the security of the data against malicious damage.
+ .............................................................................................................................. .............
+ .............................................................................................................................. .........[1]7 A system is monitored using sensors. The sensors output binary values corresponding to physical 
+conditions, as shown in the table:
+ParameterDescription of 
+parameterBinary 
+valueDescription of condition
+P oil pressure1 pressure >= 3 bar
+0 pressure < 3 bar
+T temperature1 temperature >= 200°C
+0 temperature < 200°C
+R rotation1 rotation <= 1000 revs per minute (rpm)
+0 rotation > 1000 revs per minute (rpm)
+ The outputs of the sensors form the inputs to a logic circuit. The output from the circuit, X, is 1 if 
+any of the following three conditions occur:
+ either   oil pressure >= 3 bar  and  temperature >= 200°C
+ or    oil pressure < 3 bar  and  rotation > 1000 rpm
+ or    temperature >= 200°C  and  rotation > 1000 rpm
+ (a) Draw a logic circuit to represent the above system.
+ P
+T X
+R
+ [5] (b) Complete the truth table for this system.
+PTRWorkspace
+X
+000
+001010011100101110111
+ [4]12
+9608/11/M/J/15 © UCLES 
+20158 (a) Explain how the width of the data bus and system clock speed affect the performance of a 
+computer system.
+Width of the data bus  ........................................................................................................ ........
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+Clock speed  .................................................................................................................. ............
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .................[3]
+ (b) Most computers use Universal Serial Bus (USB) ports to allow the attachment of devices.
+  Describe two benefits of using USB ports.
+1  ............................................................................................................................ ....................
+ .............................................................................................................................. .....................
+2  ............................................................................................................................ ....................
+ .............................................................................................................................. .................[2]
+ (c) The table shows six stages in the von Neumann fetch-execute cycle.
+  Put the stages into the correct sequence by writing the numbers 1 to 6 in the right hand 
+column.
+Description of stageSequence 
+number
+the instruction is copied from the Memory Data Register (MDR) and placed 
+in the Current Instruction Register (CIR)
+the instruction is executed
+the instruction is decoded
+the address contained in the Program Counter (PC) is copied to the Memory 
+Address Register (MAR) 
+the value in the Program Counter (PC) is incremented so that it points to the 
+next instruction to be fetched
+the instruction is copied from the memory location contained in the Memory 
+Address Register (MAR) and is placed in the Memory Data Register (MDR)
+ [6]Question 9 begins on page 14.9 A database has been designed to store data about salespersons and the products they have sold.
+ The following facts help to define the structure of the database:
+   each salesperson works in a particular shop
+   each salesperson has a unique first name
+   each shop has one or more salespersons
+   each product which is sold is manufactured by one company only
+   each salesperson can sell any of the products
+   the number of products that each salesperson has sold is recorded
+ The table ShopSales  was the first attempt at designing the database.
+FirstName Shop ProductName NoOfProducts Manufacturer
+Nick TX television set
+refrigeratordigital camera3
+26SKC
+WP
+HKC
+Sean BH hair dryer
+electric shaver1
+8WG
+BG
+John TX television set
+mobile phonedigital cameratoaster2
+843SKC
+ARCHKC
+GK
+ (a) State why the table is not in First Normal Form (1NF).
+ .............................................................................................................................. .....................
+ .............................................................................................................................. .................[1] (b) The database design is changed to:
+  SalesPerson (FirstName, Shop)
+  SalesProducts (FirstName, ProductName, NoOfProducts, Manufacturer)
+  Using the data given in the first attempt table ( ShopSales ), show how these data are now 
+stored in the revised table designs.
+  Table: SalesPerson
+FirstName Shop
+  Table: SalesProducts
+FirstName ProductName NoOfProducts Manufacturer
+ [3]Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared w here possible. Every reasonable 
+effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly  been included, the publisher will 
+be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced onl ine in the Cambridge International 
+Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to do wnload at www.cie.org.uk after 
+the live examination series.
+Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of Unive rsity of Cambridge Local 
+Examinations Syndicate (UCLES), which is itself a department of the University of Cambridge. (c) (i) A relationship between the two tables has been implemented.
+   Explain how this has been done.
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .........[2]
+  (ii) Explain why the SalesProducts  table is not in Third Normal Form (3NF).
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .........[2]
+  (iii) Write the table definitions to give the database in 3NF .
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .............
+ .............................................................................................................................. .........[2]
